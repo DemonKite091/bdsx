@@ -77,3 +77,5 @@ events.blockDestructionStart.on(ev =>{
         }
     }
 });
+
+"Welcome to soulblazers shithole."
